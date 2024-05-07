@@ -4,6 +4,14 @@
 ![One Piece!](Image.jpg.jpg)
 
 
+   
+   ## Story 
+   
+   
+   
+   
+   
+   
    | Strawhat Crew Members: | There Info|
    |------------------------|-----------|
    | Monkey D. Luffy |  The captain of the crew, who ate the Gum-Gum Fruit (Gomu Gomu no Mi), granting him rubber-like abilities.|
@@ -16,6 +24,9 @@
    | Franky          |The shipwright who is skilled in engineering and mechanics, and built the crew's ship, the Thousand Sunny.  |
    |Brook            | The musician and swordsman, a living skeleton who ate the Revive-Revive Fruit (Yomi Yomi no Mi), granting him a second life.  |
    | Jinbe           | The helmsman, a fish-man and former Warlord of the Sea, skilled in fish-man karate and water manipulation.  |
+
+![One Piece!](Image.jpg.jpg)
+
 
 
 
