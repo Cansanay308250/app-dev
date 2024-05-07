@@ -18,6 +18,6 @@
    | Jinbe           | The helmsman, a fish-man and former Warlord of the Sea, skilled in fish-man karate and water manipulation.  |
 
 
-![One P2!](One Piece.jpg)
+
 
 
