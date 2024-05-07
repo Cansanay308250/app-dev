@@ -1,6 +1,6 @@
 # Anime Series
 
-![One Piece!]()
+![One Piece!](Image.jpg.jpg)
 
 ## Story all About?
 
@@ -18,7 +18,7 @@
 |Jinbe| A fish-man and expert helmsman.|
 
 
-![One Piece!]()
+![One Piece!](Image.jpg.jpg)
 
 
 
