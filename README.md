@@ -1,4 +1,4 @@
-# Anime Series
+# Anime Series: One Piece
 
 ![One Piece!](Image.jpg.jpg)
 
@@ -42,7 +42,60 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 1. Mera Mera no Mi (Flame-Flame Fruit): Eaten by Portgas D. Ace, granting him the ability to create, control, and transform into fire.
 2.  Goro Goro no Mi (Rumble-Rumble Fruit): Eaten by Enel, allowing him to transform into lightning and control electricity.
 
-![One Piece!](image6.png)
+![One Piece!](image6.png) 
+## One piece (Logo)
+
+
+## Places In One Piece
+![One Piece!](image6.png) 
+1. East Blue Saga:
+2. Romance Dawn Arc
+Orange Town Arc
+Syrup Village Arc
+Baratie Arc
+Arlong Park Arc
+Loguetown Arc
+![One Piece!](image6.png) 
+Alabasta Saga:
+Reverse Mountain Arc
+Whisky Peak Arc
+Little Garden Arc
+Drum Island Arc
+Alabasta Arc
+![One Piece!](image6.png) 
+Sky Island Saga:
+Jaya Arc
+Skypiea Arc
+![One Piece!](image6.png) 
+Water 7 Saga:
+Long Ring Long Land Arc (Davy Back Fight Arc)
+Water 7 Arc
+Enies Lobby Arc
+Thriller Bark Saga:
+Post-Enies Lobby Arc
+Thriller Bark Arc
+Summit War Saga:
+![One Piece!](image6.png) 
+Sabaody Archipelago Arc
+Amazon Lily Arc
+Impel Down Arc
+Marineford Arc
+Post-War Arc
+Fish-Man Island Saga:
+![One Piece!](image6.png) 
+Return to Sabaody Arc
+Fish-Man Island Arc
+Punk Hazard Saga:
+Punk Hazard Arc
+![One Piece!](image6.png) 
+Dressrosa Saga:
+Dressrosa Arc
+![One Piece!](image6.png) 
+Yonko Saga:
+Zou Arc
+Whole Cake Island Arc
+Reverie Arc
+Wano Country Arc 
 
 
 
