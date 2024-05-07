@@ -4,7 +4,7 @@
 ![One Piece!](Image.jpg.jpg)
 
 
-  | Strawhat Crew Members: |
+###  | Strawhat Crew Members: |
   |------------------------|
 1. Monkey D. Luffy - The captain of the crew, who ate the Gum-Gum Fruit (Gomu Gomu no Mi), granting him rubber-like abilities.
 2. Roronoa Zoro - The swordsman of the crew, known for his three-sword style and incredible strength.
