@@ -18,7 +18,7 @@
 |Jinbe| A fish-man and expert helmsman.|
 
 
-![One Piece!](Image.jpg.jpg)
+![One Piece!](Image1.jpg.png)
 
 
 
