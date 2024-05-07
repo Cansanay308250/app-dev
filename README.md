@@ -1,6 +1,8 @@
 
 ### Title: Godzilla vs. Kong Cheat Sheet
 
+![Godzilla X Kong](Image.jpg.png)
+
 
 
 Synopsis:
