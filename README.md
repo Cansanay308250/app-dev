@@ -6,11 +6,10 @@
 
    | Strawhat Crew Members: | There Info|
    |------------------------|-----------|
-1. |Monkey D. Luffy|  The captain of the crew, who ate the Gum-Gum Fruit (Gomu Gomu no Mi), granting him rubber-like abilities.|
-
-
-2. Roronoa Zoro - The swordsman of the crew, known for his three-sword style and incredible strength.
-
+   | Monkey D. Luffy |  The captain of the crew, who ate the Gum-Gum Fruit (Gomu Gomu no Mi), granting him rubber-like abilities.|
+   |-----------------|-----------------------------------------------------------------------------------------------------------|
+   | Roronoa Zoro    | The swordsman of the crew, known for his three-sword style and incredible strength.|
+   |-----------------|-----------------------------------------------------------------------------------------------------------|
 
 3. Nami - The navigator, skilled in cartography and meteorology. She wields a weapon called the Clima-Tact that manipulates weather.
 
