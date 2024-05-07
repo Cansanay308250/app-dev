@@ -31,14 +31,14 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 3. Gura Gura no Mi (Tremor-Tremor Fruit): Eaten by Edward Newgate (Whitebeard), enabling him to create shockwaves and cause earthquakes.
 
 ## Zoan: Zoan-type 
-###Devil Fruits allow users to transform into animals or mythical creatures, as well as hybrids of both human and animal forms.
-5. Hito Hito no Mi (Human-Human Fruit): Eaten by Tony Tony Chopper, enabling him to transform into various human-animal hybrid forms.
-6. Inu Inu no Mi, Model: Wolf (Dog-Dog Fruit, Wolf Model): Eaten by Jyabura, allowing him to transform into a wolf and a wolf-human hybrid.
+### Devil Fruits allow users to transform into animals or mythical creatures, as well as hybrids of both human and animal forms.
+1. Hito Hito no Mi (Human-Human Fruit): Eaten by Tony Tony Chopper, enabling him to transform into various human-animal hybrid forms.
+2. Inu Inu no Mi, Model: Wolf (Dog-Dog Fruit, Wolf Model): Eaten by Jyabura, allowing him to transform into a wolf and a wolf-human hybrid.
 
 ## Logia: 
-###Logia-type Devil Fruits grant the user the ability to transform into a natural element, control it, and become virtually intangible.
-7. Mera Mera no Mi (Flame-Flame Fruit): Eaten by Portgas D. Ace, granting him the ability to create, control, and transform into fire.
-8. Goro Goro no Mi (Rumble-Rumble Fruit): Eaten by Enel, allowing him to transform into lightning and control electricity.
+### Logia-type Devil Fruits grant the user the ability to transform into a natural element, control it, and become virtually intangible.
+1. Mera Mera no Mi (Flame-Flame Fruit): Eaten by Portgas D. Ace, granting him the ability to create, control, and transform into fire.
+2.  Goro Goro no Mi (Rumble-Rumble Fruit): Eaten by Enel, allowing him to transform into lightning and control electricity.
 
 
 
