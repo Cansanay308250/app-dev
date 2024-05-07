@@ -22,21 +22,21 @@
 
 ![One Piece!](Image1.jpg.png)
 
-### In the anime and manga series "One Piece" created by Eiichiro Oda, there are a variety of Devil Fruits that grant their users unique powers and abilities. Here's a list of Devil Fruits categorized by their types:
+## In the anime and manga series "One Piece" created by Eiichiro Oda, there are a variety of Devil Fruits that grant their users unique powers and abilities. Here's a list of Devil Fruits categorized by their types:
 
-### Paramecia: 
+## Paramecia: 
 These Devil Fruits grant a wide range of abilities, often altering the user's body or manipulating their surroundings.
 1. Gomu Gomu no Mi (Rubber-Rubber Fruit): Eaten by Monkey D. Luffy, granting him rubber-like properties and the ability to stretch his body.
 2. Bara Bara no Mi (Chop-Chop Fruit): Eaten by Buggy the Clown, allowing him to separate his body into floating pieces.
 3. Gura Gura no Mi (Tremor-Tremor Fruit): Eaten by Edward Newgate (Whitebeard), enabling him to create shockwaves and cause earthquakes.
 
-### Zoan: Zoan-type 
-Devil Fruits allow users to transform into animals or mythical creatures, as well as hybrids of both human and animal forms.
+## Zoan: Zoan-type 
+###Devil Fruits allow users to transform into animals or mythical creatures, as well as hybrids of both human and animal forms.
 5. Hito Hito no Mi (Human-Human Fruit): Eaten by Tony Tony Chopper, enabling him to transform into various human-animal hybrid forms.
 6. Inu Inu no Mi, Model: Wolf (Dog-Dog Fruit, Wolf Model): Eaten by Jyabura, allowing him to transform into a wolf and a wolf-human hybrid.
 
-### Logia: 
-Logia-type Devil Fruits grant the user the ability to transform into a natural element, control it, and become virtually intangible.
+## Logia: 
+###Logia-type Devil Fruits grant the user the ability to transform into a natural element, control it, and become virtually intangible.
 7. Mera Mera no Mi (Flame-Flame Fruit): Eaten by Portgas D. Ace, granting him the ability to create, control, and transform into fire.
 8. Goro Goro no Mi (Rumble-Rumble Fruit): Eaten by Enel, allowing him to transform into lightning and control electricity.
 
