@@ -47,10 +47,12 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 
 
 
-## Places In One Piece
+# Map of ONE PIECE SERIES
 ![One Piece!](image11.jpg) 
- |East Blue Saga|
+
+ |Title Of The Episode|
  |--------------|
+ |East Blue Saga|
  |Romance Dawn Arc|
  |Orange Town Arc|
  |Syrup Village Arc|
