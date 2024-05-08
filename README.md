@@ -48,7 +48,7 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 
 
 ## Places In One Piece
-![One Piece!](image6.png) 
+![One Piece!](image11.jpg) 
  |East Blue Saga|
  |--------------|
  |Romance Dawn Arc|
@@ -57,48 +57,38 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
  |Baratie Arc|
  |Arlong Park Arc|
  |Loguetown Arc|
-   
-![One Piece!](image6.png) 
-Alabasta Saga:
-Reverse Mountain Arc
-Whisky Peak Arc
-Little Garden Arc
-Drum Island Arc
-Alabasta Arc
-![One Piece!](image6.png) 
-Sky Island Saga:
-Jaya Arc
-Skypiea Arc
-![One Piece!](image6.png) 
-Water 7 Saga:
-Long Ring Long Land Arc (Davy Back Fight Arc)
-Water 7 Arc
-Enies Lobby Arc
-Thriller Bark Saga:
-Post-Enies Lobby Arc
-Thriller Bark Arc
-Summit War Saga:
-![One Piece!](image6.png) 
-Sabaody Archipelago Arc
-Amazon Lily Arc
-Impel Down Arc
-Marineford Arc
-Post-War Arc
-Fish-Man Island Saga:
-![One Piece!](image6.png) 
-Return to Sabaody Arc
-Fish-Man Island Arc
-Punk Hazard Saga:
-Punk Hazard Arc
-![One Piece!](image6.png) 
-Dressrosa Saga:
-Dressrosa Arc
-![One Piece!](image6.png) 
-Yonko Saga:
-Zou Arc
-Whole Cake Island Arc
-Reverie Arc
-Wano Country Arc 
+ |Alabasta Saga|
+| Reverse Mountain Arc|
+| Little Garden Arc|
+| Drum Island Arc
+ | Alabasta Arc|
+|Sky Island Saga|
+|Jaya Arc|
+|Skypiea Arc|
+|Long Ring Long Land Arc (Davy Back Fight Arc)|
+|Water 7 Arc|
+|Enies Lobby Arc|
+|Thriller Bark Saga|
+|Post-Enies Lobby Arc|
+|Thriller Bark Arc|
+|Summit War Saga|
+|Sabaody Archipelago Arc|
+|Amazon Lily Arc|
+|Impel Down Arc|
+|Marineford Arc|
+|Post-War Arc|
+|Fish-Man Island Saga|
+|Return to Sabaody Arc|
+|Fish-Man Island Arc|
+|Punk Hazard Saga|
+|Punk Hazard Arc|
+|Dressrosa Saga|
+|Dressrosa Arc|
+|Yonko Saga|
+|Zou Arc|
+|Whole Cake Island Arc|
+|Reverie Arc|
+|Wano Country Arc |
 
 
 
