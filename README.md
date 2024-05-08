@@ -42,8 +42,9 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 1. Mera Mera no Mi (Flame-Flame Fruit): Eaten by Portgas D. Ace, granting him the ability to create, control, and transform into fire.
 2.  Goro Goro no Mi (Rumble-Rumble Fruit): Eaten by Enel, allowing him to transform into lightning and control electricity.
 
+# One piece (Logo in the title of the series)
 ![One Piece!](image6.png) 
-## One piece (Logo)
+
 
 
 ## Places In One Piece
