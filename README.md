@@ -48,13 +48,15 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 
 ## Places In One Piece
 ![One Piece!](image6.png) 
-1. East Blue Saga:
-2. Romance Dawn Arc
-Orange Town Arc
-Syrup Village Arc
-Baratie Arc
-Arlong Park Arc
-Loguetown Arc
+ |East Blue Saga|
+ |--------------|
+ |Romance Dawn Arc|
+ |Orange Town Arc|
+ |Syrup Village Arc|
+ |Baratie Arc|
+ |Arlong Park Arc|
+ |Loguetown Arc|
+   
 ![One Piece!](image6.png) 
 Alabasta Saga:
 Reverse Mountain Arc
