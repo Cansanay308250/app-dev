@@ -51,7 +51,7 @@ These Devil Fruits grant a wide range of abilities, often altering the user's bo
 
 
 # Map of ONE PIECE SERIES
-![One Piece!](Image10(1).jpg) 
+![One Piece!](image11.jpg) 
 
  |Title Of The Episode|
  |--------------|
