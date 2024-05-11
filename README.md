@@ -3,7 +3,7 @@
 ![One Piece!](Image.jpg.jpg)
 
 
-# THE MAIN CHARACTERMONKEY D. LUFFY (THE FOURT EMPEROR OF THE SEA)
+# THE MAIN CHARACTER MONKEY D. LUFFY (THE FOURT EMPEROR OF THE SEA)
 ![One Piece!](Image3.jpg)
 
 ## Story all About?
