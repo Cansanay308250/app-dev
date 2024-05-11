@@ -2,6 +2,9 @@
 
 ![One Piece!](Image.jpg.jpg)
 
+
+
+![One Piece!](Image3.jpg)
 ## Story all About?
 ### "One Piece" is an epic tale of adventure, friendship, and the pursuit of dreams set in a vast world dominated by the sea. The story follows the journey of Monkey D. Luffy, a spirited young pirate with the ambitious goal of becoming the Pirate King by finding the legendary treasure known as One Piece. Alongside his diverse and loyal crew, the Straw Hat Pirates, Luffy sets sail across treacherous oceans, encountering rival pirates, formidable foes, and enigmatic islands teeming with both wonders and dangers. As they navigate the perils of the Grand Line and confront the oppressive forces of the World Government, the Straw Hats forge unbreakable bonds, defy impossible odds, and stand firm in their quest to chart their own destinies. Fueled by themes of freedom, justice, and camaraderie, "One Piece" captivates audiences with its vibrant characters, intricate world-building, and gripping storytelling, inspiring readers and viewers alike to embark on an unforgettable journey to discover the true meaning of adventure.
 
